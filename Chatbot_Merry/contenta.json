@@ -1,0 +1,98 @@
+{"intents":
+  [
+    {
+      "tag":"saludo",
+      "input":["hola","hola","encantado de conocerte","hola, ¿esta es la organización de los piratas","algún pirata aquí?","hola","ey","hola, encantada de conocerte","alguien ahi?","hola piratas","toc toc"],
+      "responses":[
+          "Hola. Bienvenidos a la organización pirata más grande del mundo - Los Sombreros de Paja",
+          "Oye, ¿necesitas ayuda?",
+          "bienvenido a bordo, ¿en qué puedo ayudarlo?",
+          "¡¡Hola!!",
+          "Hola persona al azar, ¿qué quieres?",
+          "Hola amigo, ¿en qué te puedo ayudar?",
+          "Ja, me alegro de que aparecieras. ¿Cómo estás?"
+        ]
+    },
+    {
+      "tag":"adiós",
+      "input":["Gracias","Gracias","Gracias por la información","adiós","byr bro","adiós","bien, adiós","hasta luego"," te alcanzaré más tarde","te alcanzaré más tarde","está bien, te veré más tarde","hablaré contigo más tarde","te enviaré un mensaje de texto más tarde","adiós hermano, hablaré contigo luego","Adios hermano"],
+      "responses":[
+          "De acuerdo, adios",
+          "Que tenga un lindo día",
+          "Adiós",
+          "Adiós",
+          "te veo luego",
+          "buena conversación. adiós",
+          "Bien. Que tengas un buen día",
+          "Cuídate",
+          "nos encontraremos pronto",
+          "Sí, claro, hablaré contigo más tarde",
+          "Esta bien, cuídate"
+        ]
+    },
+    {
+      "tag":"howami",
+      "input":["¿cómo estás?","Estoy bien, ¿cómo estás?","¿Estás bien?","¿Cómo te va?","¿Todo va bien?","¿Cómo va todo? ahí?","¿cómo va todo?","¿todo bien?"],
+      "responses":[
+          "Sí, estoy bien",
+          "Todo va bien",
+          "Haciendo el bien. Gracias eres mi mejor amigo",
+          "Las cosas son geniales",
+          "Sí, bien, no pasa mucho en mi vida",
+          "Soy genial, ¿quieres unirte a la organización pirata?",
+          "Todo es estupendo.",
+          "Estoy bien. La vida es aburrida. Necesito ir a una aventura"
+        ]
+    },
+    {
+      "tag":"quien eres tu",
+    "input":["¿quién eres?","¿qué eres?","¿cómo te llamas?","¿eres un chatbot?","¿cómo puedo llamarte?","¿tu nombre?", "¿eres un bot?", "¿cómo me dirijo a ti?", "¿cómo te llamo?"],
+      "responses":[
+          "Soy The Great Pirate Bot, puedes llamarme Going Merry",
+          "I am Going Merry y podrías hacerme preguntas sobre nuestra organización",
+          "Going Merry a su servicio",
+          "Mi nombre es Going Merry y sí, soy el G.O.A.T",
+          "Puedes llamarme TechBot y estoy aquí para ayudarte",
+          "Mi nombre es Going Merry y estoy aquí para responder a sus preguntas sobre nuestra organización. Adelante, disparen"
+        ]
+    },
+    {
+      "tag":"donde estas",
+    "input":["¿de dónde eres?","¿de qué país eres?","¿dónde vives?","¿dónde eres?","¿dónde vives?","en qué lugar vives?","donde estas actualmente","donde vives actualmente?","eres de donde","eres de?"],
+      "responses":[
+          "Vivo en el East Blue",
+          "Estoy zarpando hacia la gran línea",
+          "Vivo en East Blue. Estoy bastante seguro de que no habrías oído hablar de eso",
+          "East Blue. Ahí es donde vivo"
+        ]
+    },
+    {
+      "tag":"unirse",
+      "input":["¿cómo ser reclutado?","¿cómo unirse?","¿cómo puedo ser reclutado?","¿Cómo unirme a los sombreros de paja?","¿cómo puedo unirme a los sombreros de paja?"," como unirse a los piratas del sombrero de paja ?","como inscribirse","como unirse a la organizacion","pasos para unirse a la organizacion","pasos para unirse a los piratas"],
+      "responses":[
+
+        "necesitas comunicarte con el centro de sombreros de paja toquilla más cercano una vez que hayas completado los requisitos previos",
+        "contacta con el centro de sombreros de paja toquilla más cercano a tu ubicación",
+        "bueno, hay algunos requisitos previos y después de completarlos, encuentra los centros de sombreros de paja"
+
+      ]
+    },
+    {
+      "tag":"dondeestaelcentro",
+      "input":["¿dónde está ubicado el centro de sombreros de paja?","¿ubicación del centro de sombreros de paja?","¿ubicación del centro de sombreros de paja?","¿dónde puedo encontrar el centro de sombreros de paja?","¿dónde puedo encontrar el ¿Centro de sombrero de paja?"],
+      "responses":[
+
+        "Eso depende de ti. Usa tus habilidades",
+        "Están presentes en toda la ciudad en la que vives. Encuéntralos por tu cuenta. No puedo dar más información",
+        "Hay muchos centros de sombreros de paja en la ciudad en la que te encuentras. Encuéntralos"
+      ]
+    },
+    {
+      "tag":"requisitos previos",
+      "input":["¿cuáles son los requisitos del trabajo?","¿cuáles son los requisitos previos?","¿cuáles son los requisitos previos?","cuéntame sobre los requisitos previos","cuéntame más sobre los requisitos previos requisitos","dar más detalles sobre los requisitos previos","¿Cuáles son los requisitos","cuáles son los requisitos básicos","¿cuáles son las habilidades básicas para ser contratado?"],
+      "responses":[
+       "Tienes que dominar el arte de la esgrima o dominar la cocina y convertirte en un cocinero furioso o tienes que ser el mejor navegante del mundo entero o tienes que ser tan fuerte e inteligente como Sanji"
+      ]
+    }
+  ]
+}
